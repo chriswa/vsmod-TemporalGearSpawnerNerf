@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "temporalgearspawnnerf",
+  "name": "TemporalGearSpawnNerf",
+  "authors": [ "goxmeor" ],
+  "description": "Temporal gears can now be used to set a spawn point only once. After respawning, the player's spawn point is cleared. Another temporal gear must be used to set a spawn point again. This is probably only useful for the Wilderness Survival playstyle with its default random respawn radius.",
+  "version": "1.0.0",
+  "dependency": {
+    "game": ""
+  }
+}
